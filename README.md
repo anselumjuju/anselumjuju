@@ -53,7 +53,7 @@ Full-Time student **_[Francis Xavier College](https://www.francisxavier.ac.in/)_
 ### 📊 Github Stats
 
 <br/>
-<p align="left">
+<p align="center">
   	<!-- <img src ="https://github-readme-stats.vercel.app/api?username=anselumjuju&show_icons=true&count_private=true&theme=darcula&hide_rank=true&bg_color=00000000&text_color=9c9d9d"> &nbsp; -->
 	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselumjuju&layout=compact&count_private=true&theme=darcula&bg_color=00000000&text_color=9c9d9d" alt="Streak" height="195px" /> -->
 	<img src="https://nirzak-streak-stats.vercel.app?user=anselumjuju&theme=darcula&background=EB545400" alt="Streak" />
