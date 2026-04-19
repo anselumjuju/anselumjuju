@@ -12,23 +12,27 @@
 <a href="mailto:anselumjuju@gmail.com"><img src="https://github.com/user-attachments/assets/b1b95dca-e0fd-4670-8e2a-e3cc56123f75" alt="Gmail" height="24px"/></a> &nbsp;
 <a href="https://x.com/anselumjuju"><img src="https://github.com/user-attachments/assets/cd242eda-07b5-4dc1-99fa-6f36a9ebeb67" alt="X" height="24px"/></a>
 
+
 <!-- About me -->
-<p>I’m a creative developer, turning clients imaginations into real products 🌟. From building interactive 3D websites 🌐 to crafting seamless web applications 💻, I love exploring new technologies 🔍 and leveraging them to create innovative, engaging experiences 🚀. I thrive on pushing boundaries, experimenting with fresh ideas 💭, and bringing concepts to life in the digital world 🌍.</p>
+<p>
+I’m a <b>Full-Stack Developer</b> focused on building scalable web applications using <b>Next.js, React.js, and TypeScript</b> ⚙️. 
+I enjoy working on <b>AI-integrated systems</b> 🤖 and optimizing performance to create efficient, high-impact solutions 🚀.
 
-A _**Creative Developer**_ by day ☼ and an _**Algorithm Slayer**_ by night ☾
+From designing data-driven dashboards 📊 to developing end-to-end web platforms 🌐, I like turning complex ideas into real, usable products.
 
-### About Me 😎
+A _**Full-Stack Developer**_ by day ☼ and an _**Algorithm Slayer**_ by night ☾
+</p>
 
-Full-Time student **_[Francis Xavier College](https://www.francisxavier.ac.in/)_**
+### 👨‍💻 About Me
 
-- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.css`, `.svg`, `.gltf`, `.blend`
-- 🌍 Building interactive web experiences with **ReactJS**, **NextJS**, **Gsap**, and **TailwindCSS** ecosystems
-- 🚀 Recent works: _[Lurmis](https://lurmis.vercel.app/)_,&nbsp; _[BMW Config](https://bmw-config.vercel.app/)_,&nbsp; _[Delikassii](https://delikassii.vercel.app/)_
-- 💬 `ping` me about **_creative development_**, **_ui/ux design_**!
+- 💡 Interested in **full-stack development, backend systems, and AI integration**
+- ⚡ Built systems handling **large-scale data processing and performance optimization**
+- 🧠 Strong focus on **Data Structures & Algorithms**
+- 🚀 Recent works: _[Veona](https://veona.vercel.app/)_,&nbsp; _[AI Analytics Dashboard](https://github.com/anselumjuju/analytics-dashboard)_,&nbsp; _[Delikassii](https://delikassii.vercel.app/)_
 
 <!-- Languages and Tools -->
 
-### Languages and Tools 🔨
+### 🔨 Languages and Tools
 
 <br/> &nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/680ea7be-fa91-4c15-a2be-9eef65f84dd4" alt="Figma" height="36px"/> &nbsp;&nbsp;
@@ -54,9 +58,9 @@ Full-Time student **_[Francis Xavier College](https://www.francisxavier.ac.in/)_
 
 <br/>
 <p align="center">
-  	<!-- <img src ="https://github-readme-stats.vercel.app/api?username=anselumjuju&show_icons=true&count_private=true&theme=darcula&hide_rank=true&bg_color=00000000&text_color=9c9d9d"> &nbsp; -->
-	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselumjuju&layout=compact&count_private=true&theme=darcula&bg_color=00000000&text_color=9c9d9d" alt="Streak" height="195px" /> -->
-	<img src="https://nirzak-streak-stats.vercel.app?user=anselumjuju&theme=darcula&background=EB545400" alt="Streak" />
+  	<img src ="https://github-readme-stats.vercel.app/api?username=anselumjuju&show_icons=true&count_private=true&theme=darcula&hide_rank=true&bg_color=00000000&text_color=9c9d9d"> &nbsp;
+	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselumjuju&layout=compact&count_private=true&theme=darcula&bg_color=00000000&text_color=9c9d9d" alt="Streak" /> -->
+	<!-- <img src="https://nirzak-streak-stats.vercel.app?user=anselumjuju&theme=darcula&background=EB545400" alt="Streak" /> -->
 </p>
 
 <br/>
